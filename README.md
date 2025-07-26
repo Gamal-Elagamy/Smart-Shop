@@ -4,8 +4,7 @@ A responsive and modern React application that displays a list of products fetch
 Users can browse products, view product details, search by name, sort by price or name, and toggle between dark/light mode.
 
 ## 🚀 Live Demo
-
-https://smart-shop-one.vercel.app/
+https://smart-shop-orcin.vercel.app/
 ---
 
 ## ✨ Features
